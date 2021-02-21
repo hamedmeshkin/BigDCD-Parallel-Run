@@ -1,0 +1,83 @@
+Info) VMD for LINUXAMD64, version 1.9.4a29 (February 25, 2019)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 8 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 5189MB (16%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 3 plugins in directory:
+Info) /usr/local/lib/vmd/plugins/LINUXAMD64/molfile
+after#0
+2
+4252
+8503
+100
+../../02-equilibrium/2JLN/equ_2JLN.dcd
+file4
+psfplugin) Detected a Charmm PSF file
+Info) Using plugin psf for structure file ../../common/4D1B_2JLN_share_fin.psf
+Info) Analyzing structure ...
+Info)    Atoms: 79986
+Info)    Bonds: 63926
+Info)    Angles: 76628  Dihedrals: 84910  Impropers: 1504  Cross-terms: 454
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 16613
+Info)    Waters: 15953
+Info)    Segments: 20
+Info)    Fragments: 16158   Protein: 1   Nucleic: 0
+Info) Using plugin pdb for coordinates from file ../../common/2JLN_sim_fun.pdb
+Info) Finished with coordinate file ../../common/2JLN_sim_fun.pdb.
+0
+42
+ERROR) Invalid last frame: 0
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
+Info) Finished with coordinate file ../../02-equilibrium/2JLN/equ_2JLN.dcd.
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file ../../02-equilibrium/2JLN/equ_2JLN.dcd
