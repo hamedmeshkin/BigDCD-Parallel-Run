@@ -1,4 +1,4 @@
-BigDCD-parallel-run is used for large dcd trajectories, and by taking advantage of parallel scripting, the Collective Variable from the trajectory can be achieved in less than one hour.
+BigDCD-parallel-Run is used for large dcd trajectories, and by taking advantage of parallel scripting, the Collective Variable from the trajectory can be achieved in less than one hour.
 
 1) First, write our VMD code for the targeted collective variable in the main.tcl file. Make sure to put your code in the function "script" in the main.tcl file.
 2) By the Linux terminal, perform:  ./parallel.sh in the working directory  ---> It will generate 32 files of the main.tcl named as S%02.tcl
